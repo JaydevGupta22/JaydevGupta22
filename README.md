@@ -2,10 +2,15 @@
 
 <div style="display: flex; align-items: center;">
   <div>
-    <h3>About Me</h3>
-    <ul>
-      <li>👨‍💻 All of my projects are available at <a href="https://github.com/JaydevGupta22">github</a></li>
-    </ul>
+   <h3>About Me</h3>
+<ul>
+  <li> I am currently diving deep into the world of deep learning, expanding my expertise in this exciting field. </li>
+  <li> My core skills lie in machine learning and data analysis, where I have hands-on experience in developing models and extracting meaningful insights from data. </li>
+  <li> I aspire to build a successful career in Data Science, continually growing my knowledge and skill set. </li>
+  <li> I am eager to explore Natural Language Processing (NLP), Generative AI, and Large Language Models (LLMs), as I see these as key technologies shaping the future. </li>
+  <li> You can check out all of my projects on <a href="https://github.com/JaydevGupta22">GitHub</a>. </li>
+</ul>
+
 
 ## Skills
 
